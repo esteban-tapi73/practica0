@@ -1,3 +1,4 @@
+INTRODUCCION GIT
 pwd: Imprime el ‘directorio actual de trabajo’, permitiéndote saber dónde estás.
 ls: Enlista los archivos en el directorio actual.
 man *: Enlista el manual del comando, sustituyendo el * por el nombre del comando.
